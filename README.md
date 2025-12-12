@@ -1,4 +1,4 @@
-# Team Ragnar
+# Project Name
 
 A springboot REST API project for managing an online book store (Backend)
 
